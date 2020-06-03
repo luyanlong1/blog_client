@@ -62,7 +62,7 @@
                         <h3 class="panel-title">浏览量Top5</h3>
                     </div>
                     <div v-for="o in 5" :key="o" class="text item">
-                        {{'测试标题 ' + o }}
+                        {{'测试标题—— ' + o }}
                     </div>
                 </el-card>
             </div>
